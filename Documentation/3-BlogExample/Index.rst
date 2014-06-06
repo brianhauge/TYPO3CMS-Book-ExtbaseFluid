@@ -4,14 +4,14 @@ A journey through the Blog Example
 In this chapter we accompany you on a journey through a simple TYPO3
 extension. While traveling on this round trip you get to know more about the
 extension development with Extbase and Fluid and learn the most important
-stations and coordinates of the extension development with the help of a
-example extension. You first familiarize with the geography and the typical
-characteristics of a extension and find out, which processes run in the
-background. This knowledge will then help you in the creation of an own
-extension
+stations and coordinates of the extension development with the help of an
+example extension. You will first familiarize with the geography and the typical
+characteristics of an extension and find out, which processes run in the
+background. This knowledge will then help you in the creation of your own
+extension.
 
 If you search for a specific manual for the creation of an extension,
-chapter 4 will show you the right set of tools. However we recommend you to
+chapter 4 will show you the right set of tools. However, we recommend you to
 build the fundamentals for that in this chapter. The journey that lies ahead
 of us, could also have the title "Europe in five days. If you discover nice
 places, you should visit them later without the travel group.
